@@ -1,0 +1,31 @@
+html{
+    font-size: 18px;
+}
+
+button {
+    background: rgba(24, 24, 141, 0.705);
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 85%;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+li{
+    margin: 4px 0;
+}
+
+li:hover{
+    cursor: pointer;
+}
+
+.active{
+    background-color: beige;
+}
